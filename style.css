@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: #282828;
+    color: #fbf1c7;
 }
 
 main {
@@ -11,5 +11,5 @@ main {
 }
 
 a {
-    color: white;
+    color: #fbf1c7;
 }
